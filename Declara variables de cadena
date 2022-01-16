@@ -1,0 +1,14 @@
+/*Declara variables de cadena
+Anteriormente utilizaste el siguiente código 
+para declarar una variable:
+var myName;
+*/
+
+var myName = "your name";
+
+/*"your name" es llamada una cadena literal.
+ Una cadena literal o cadena es una serie
+  de ceros o más caracteres encerrados en 
+  comillas simples o dobles.
+
+*/
